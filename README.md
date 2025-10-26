@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saikat Bera</h1>
+<h1 align="center">Gm Gm Guys 👋, I'm Saikat Bera</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat-bera04&label=Profile%20views&color=0e75b6&style=flat" alt="saikat-bera04" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects.**
 
