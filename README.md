@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **work.saikatbera@gmail.com**
 
-- ⚡ Fun fact **Who Cares?**
+- ⚡ Fun fact **I am lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
