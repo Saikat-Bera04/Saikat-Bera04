@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saikat Bera</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img width="452" height="448" alt="Screenshot 2025-12-30 at 8 38 17 PM" src="https://github.com/user-attachments/assets/f61e5767-ca14-4587-89d2-cbe602c5b4fa" /> <img width="900" height="451" alt="ticket_evangelist (1)" src="https://github.com/user-attachments/assets/c6952204-f95f-40d8-aad7-8b7ab28dde6e" />
+<img align="center" width="452" height="448" alt="Screenshot 2025-12-30 at 8 38 17 PM" src="https://github.com/user-attachments/assets/f61e5767-ca14-4587-89d2-cbe602c5b4fa" /> 
 
 
 
