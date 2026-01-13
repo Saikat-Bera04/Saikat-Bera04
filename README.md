@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saikat Bera</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img width="452" height="448" alt="Screenshot 2025-12-30 at 8 38 17 PM" src="https://github.com/user-attachments/assets/f61e5767-ca14-4587-89d2-cbe602c5b4fa" />
+
+
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Web Development**<br><br>- 🌱 I’m currently learning **Web3**<br><br>- 👯 I’m looking to collaborate on **Web Dev Projects.**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Saikat-Bera04](https://github.com/Saikat-Bera04)<br><br>- 💬 Ask me about **react,C**<br><br>- 📫 How to reach me **work.saikatbera@gmail.com**<br><br>- ⚡ Fun fact **I am lazy**
