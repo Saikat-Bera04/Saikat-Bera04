@@ -14,7 +14,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=30&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%F0%9F%92%AB+About+Me:" alt="About Me" />
 
-- 🔭 I’m currently working on **Web Development**<br><br>- 🌱 I’m currently learning **Web3**<br><br>- 👯 I’m looking to collaborate on **Web Dev Projects.**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Saikat-Bera04](https://github.com/Saikat-Bera04)<br><br>- 💬 Ask me about **react,C**<br><br>- 📫 How to reach me **work.saikatbera@gmail.com**<br><br>- ⚡ Fun fact **I am lazy**
+⚡ **Code → Design → Product → Repeat**
+
+🌐 **Web developer exploring AI & Web3**
+
+� **Building things that people actually use**
+
+� **Product-driven developer mindset**
+
+🤝 **Always open to cool projects**
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=28&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%F0%9F%8C%90+Socials:" alt="Socials" />
