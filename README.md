@@ -52,7 +52,7 @@
 <br>
 
 #### ⛓️ Web3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix_IDE-black?style=plastic&logo=remix&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFC107?style=plastic&logo=hardhat&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix_IDE-black?style=plastic&logo=remix&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFC107?style=plastic&logo=ethereum&logoColor=white)
 
 <br>
 
@@ -64,6 +64,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=20&duration=2000&pause=1000&color=A9AFC1&width=400&lines=Other+Tools+%26+Platforms:" />
 </p>
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=firefox&logoColor=FF7139)
 
 
@@ -71,14 +72,14 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saikat-Bera04&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Saikat-Bera04&theme=radical&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=28&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikat-Bera04&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikat-Bera04&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=24&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote" alt="Random Dev Quote" />
