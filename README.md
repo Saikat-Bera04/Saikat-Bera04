@@ -18,9 +18,9 @@
 
 🌐 **Web developer exploring AI & Web3**
 
-� **Building things that people actually use**
+🚀 **Building things that people actually use**
 
-� **Product-driven developer mindset**
+💡 **Product-driven developer mindset**
 
 🤝 **Always open to cool projects**
 
@@ -64,12 +64,14 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=20&duration=2000&pause=1000&color=A9AFC1&width=400&lines=Other+Tools+%26+Platforms:" />
 </p>
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=firefox&logoColor=FF7139)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=28&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%F0%9F%8F%86+GitHub+Trophies" alt="GitHub Trophies" />
-
-![](https://github-profile-trophy.vercel.app/?username=Saikat-Bera04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Saikat-Bera04&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=24&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote" alt="Random Dev Quote" />
 
