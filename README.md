@@ -44,7 +44,7 @@
 <br>
 
 #### ⛓️ Web3 & Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix_IDE-black?style=plastic&logo=remix&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFC107?style=plastic&logo=hardhat&logoColor=white)
 
 <br>
 
