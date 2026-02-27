@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saikat Bera</h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" width="452" height="448" alt="Screenshot 2025-12-30 at 8 38 17 PM" src="https://github.com/user-attachments/assets/f61e5767-ca14-4587-89d2-cbe602c5b4fa" /> 
+<p align="center">
+  <img width="452" height="448" alt="Screenshot 2025-12-30 at 8 38 17 PM" src="https://github.com/user-attachments/assets/f61e5767-ca14-4587-89d2-cbe602c5b4fa" />
+</p> 
 
 
 
