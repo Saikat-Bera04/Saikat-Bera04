@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=22&duration=3500&pause=1000&color=A9AFC1&center=true&vCenter=true&width=500&lines=A+passionate+Web+developer+from+India" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=22&duration=3500&pause=1000&color=A9AFC1&center=true&vCenter=true&width=600&lines=A+passionate+Web+developer+from+India;A+product-driven+web+developer+building+real-world+projects;A+builder+focused+on+modern+web+technologies;Turning+ideas+into+real+web+products;Crafting+web+experiences+with+code+%26+design;Building+the+web%2C+exploring+AI+%26+Web3" />
 </p> 
 
 
