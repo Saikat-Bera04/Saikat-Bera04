@@ -16,9 +16,9 @@
 
 ⚡ **Code → Design → Product → Repeat.**
 
-🌐 **Web developer exploring AI & Web3**
+🌐 **Web developer exploring AI & Web3.**
 
-🚀 **Building things that people actually use**
+🚀 **Building things that people actually use.**
 
 💡 **Product-driven developer mindset**
 
