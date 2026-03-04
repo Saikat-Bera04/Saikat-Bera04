@@ -14,7 +14,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=30&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%F0%9F%92%AB+About+Me:" alt="About Me" />
 
-⚡ **Code → Design → Product → Repeat**
+⚡ **Code → Design → Product → Repeat.**
 
 🌐 **Web developer exploring AI & Web3**
 
