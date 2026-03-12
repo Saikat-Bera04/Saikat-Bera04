@@ -1,4 +1,18 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" width="600" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Saikat+Bera" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=22&duration=3500&pause=1000&color=A9AFC1&center=true&vCenter=true&width=600&lines=A+passionate+Web+developer+from+India;A+product-driven+web+developer+building+real-world+projects;A+builder+focused+on+modern+web+technologies;Turning+ideas+into+real+web+products;Crafting+web+experiences+with+code+%26+design;Building+the+web%2C+exploring+AI+%26+Web3" />
+</p> 
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Tomorrow&size=30&duration=2000&pause=1000&color=F7F7F7&width=450&lines=%F0%9F%92%AB+About+Me:" alt="About Me" />
 
 ⚡ **Code → Design → Product → Repeat.**
 
